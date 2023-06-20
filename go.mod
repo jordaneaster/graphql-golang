@@ -1,4 +1,4 @@
-module github.com/glyphack/graphlq-golang
+module github.com/jordaneaster/graphlq-golang
 
 go 1.13
 
